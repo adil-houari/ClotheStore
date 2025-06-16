@@ -1,0 +1,8 @@
+C:\Users\AdilH\OneDrive\Bureau\school chakal\Programmeertechnieken\oefeningen\KledingWinkel\KledingWinkel\bin\Debug\KledingWinkel.exe.config
+C:\Users\AdilH\OneDrive\Bureau\school chakal\Programmeertechnieken\oefeningen\KledingWinkel\KledingWinkel\bin\Debug\KledingWinkel.exe
+C:\Users\AdilH\OneDrive\Bureau\school chakal\Programmeertechnieken\oefeningen\KledingWinkel\KledingWinkel\bin\Debug\KledingWinkel.pdb
+C:\Users\AdilH\OneDrive\Bureau\school chakal\Programmeertechnieken\oefeningen\KledingWinkel\KledingWinkel\obj\Debug\KledingWinkel.csproj.AssemblyReference.cache
+C:\Users\AdilH\OneDrive\Bureau\school chakal\Programmeertechnieken\oefeningen\KledingWinkel\KledingWinkel\obj\Debug\KledingWinkel.csproj.SuggestedBindingRedirects.cache
+C:\Users\AdilH\OneDrive\Bureau\school chakal\Programmeertechnieken\oefeningen\KledingWinkel\KledingWinkel\obj\Debug\KledingWinkel.csproj.CoreCompileInputs.cache
+C:\Users\AdilH\OneDrive\Bureau\school chakal\Programmeertechnieken\oefeningen\KledingWinkel\KledingWinkel\obj\Debug\KledingWinkel.exe
+C:\Users\AdilH\OneDrive\Bureau\school chakal\Programmeertechnieken\oefeningen\KledingWinkel\KledingWinkel\obj\Debug\KledingWinkel.pdb
